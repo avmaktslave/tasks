@@ -1,0 +1,22 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "just any tasks on javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avmaktslave/tasks.git"
+  },
+  "author": "Leshic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avmaktslave/tasks/issues"
+  },
+  "homepage": "https://github.com/avmaktslave/tasks#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
